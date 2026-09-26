@@ -1,0 +1,16 @@
+.profile-card{
+    padding: 10px;
+    margin: auto;
+    background-color: antiquewhite;
+    width: 350px;
+    text-align: center;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 5px 5px 10px gray;
+    border: 2px solid grey;
+   
+
+}
+.profile{
+    text-transform: uppercase;
+    text-decoration: underline;
+}
