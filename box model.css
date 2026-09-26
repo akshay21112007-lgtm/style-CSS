@@ -1,0 +1,17 @@
+.box{
+    margin: auto;
+    width: 350px;
+    background-color: azure;
+    padding: 10px;
+    border: 2px solid black;
+   
+}
+.learn{
+    cursor: pointer;
+    background-color: beige;
+    width: 75px;
+    padding: 5px;
+}
+.explain{
+    font-weight: bolder;
+}
