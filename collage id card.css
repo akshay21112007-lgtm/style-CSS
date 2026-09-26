@@ -1,0 +1,26 @@
+.profile-card{
+ width: 350px; 
+ height: 375px; 
+background-color: rgb(199, 151, 79);
+ border-radius: 10px 10px 10px 10px; 
+ box-shadow: 10px 10px 10px black;
+ opacity: 1;
+ 
+}
+.profile-photo{
+    width: 100%;
+  background-color: rgb(190, 164, 132);
+   border-radius: 10px 10px 10px 10px;
+
+}
+.profile-photo img{
+    align-self: center;
+    width: 65%;
+    height: 200px;
+    border-radius: 10px 10px 10px 10px;
+
+}
+.h1{
+    color: black;
+   
+}
