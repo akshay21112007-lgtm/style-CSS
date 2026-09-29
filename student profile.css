@@ -14,3 +14,7 @@
     text-transform: uppercase;
     text-decoration: underline;
 }
+.contact{
+    color: blue;
+    cursor: pointer;
+}
