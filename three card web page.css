@@ -1,0 +1,44 @@
+:root{--primary-color:black;
+    --secondary-color:rgb(238, 226, 187);
+    
+}
+.complete-box .box:nth-child(even){
+ background-color: rgb(226, 226, 170);   
+    
+}
+
+.box{
+    background-color:var(--secondary-color) ;
+    padding: 10px;
+    border: 2px solid gray;
+    border-radius: 10px 10px 10px 10px;
+   
+}
+
+
+.box button:hover{
+    background-color: black;
+    color: white;
+}
+
+.box h3::after {
+    content: "";
+    display: block;
+    width: 70px;
+    height: 3px;
+    background-color: blue;
+    margin-top: 3px;
+}
+/* .box-two{
+    
+    padding: 10px;
+    border: 2px solid gray;
+    border-radius: 10px 10px 10px 10px;
+}
+.box-three{
+     background-color:var(--secondary-color) ;
+    padding: 10px;
+    border: 2px solid gray;
+    border-radius: 10px 10px 10px 10px;
+} */
+
