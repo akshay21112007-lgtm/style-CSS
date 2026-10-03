@@ -1,0 +1,16 @@
+.box{
+    display: flex;
+
+    flex-wrap: wrap;
+    gap: 20px;
+    
+}
+.p{
+
+    flex: 1 1 250px;
+max-width: 150px;
+    padding: 20px;
+    margin-bottom: 10px;
+    border: 2px solid black ;
+    border-radius: 8px;
+}
