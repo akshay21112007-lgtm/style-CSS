@@ -1,0 +1,23 @@
+.box{
+    height: 400px;
+    color: white;
+    background: linear-gradient(to right,rgb(251, 0, 255),rgb(222, 10, 20));
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.button{
+   padding: 10px;
+    border: 2px solid black;
+    background-color: blue;
+    transition: 0.8s;
+    color: white;
+   
+}
+.button:hover{
+    transform: rotate(360deg);
+    background-color: brown;
+}
+

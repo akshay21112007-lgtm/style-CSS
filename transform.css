@@ -1,0 +1,9 @@
+.box{
+    height: 400px;
+    color: white;
+    background: linear-gradient(to right,blue,black);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center ;
+}

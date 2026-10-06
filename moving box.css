@@ -1,0 +1,15 @@
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+    animation: moving-box 2s infinite alternate;
+}
+    @keyframes moving-box {
+        from{
+            transform:translateX(0)
+        }
+        to{
+            transform:translateX(300px)
+        }
+        
+    }
